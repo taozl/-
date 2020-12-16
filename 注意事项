@@ -21,3 +21,5 @@ mutable-content 为毕传参数且为1
 注意项目中的deployment target最低是多少
 
 image = 'xxxx'这个是和后台定的
+
+QA: https://www.javaroad.cn/questions/33418
