@@ -1,0 +1,23 @@
+推送带有图片的样式数据格式：
+
+{
+    "_j_business" = 1;
+    "_j_msgid" = 54043301232437441;
+    "_j_uid" = 46071078149;
+    aps =     {
+        alert =         {
+            body = "\U8fd9\U91cc\U662f\U5185\U5bb9\U5e26\U56fe\U7247\U7684";
+            title = "\U8fd9\U91cc\U662f\U6807\U9898";
+        };
+        badge = 1;
+        "mutable-content" = 1;
+        sound = default;
+    };
+    image = "https://img.jingxinfun.com/ciyo/LOGO.png";
+}
+
+mutable-content 为毕传参数且为1 
+
+注意项目中的deployment target最低是多少
+
+image = 'xxxx'这个是和后台定的
